@@ -1,0 +1,15 @@
+D:\Tranning 90day\Programming_of_C_Sharp\bin\Debug\net8.0\Programming_of_C_Sharp.exe
+D:\Tranning 90day\Programming_of_C_Sharp\bin\Debug\net8.0\Programming_of_C_Sharp.deps.json
+D:\Tranning 90day\Programming_of_C_Sharp\bin\Debug\net8.0\Programming_of_C_Sharp.runtimeconfig.json
+D:\Tranning 90day\Programming_of_C_Sharp\bin\Debug\net8.0\Programming_of_C_Sharp.dll
+D:\Tranning 90day\Programming_of_C_Sharp\bin\Debug\net8.0\Programming_of_C_Sharp.pdb
+D:\Tranning 90day\Programming_of_C_Sharp\obj\Debug\net8.0\Programming_of_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tranning 90day\Programming_of_C_Sharp\obj\Debug\net8.0\Programming_of_C_Sharp.AssemblyInfoInputs.cache
+D:\Tranning 90day\Programming_of_C_Sharp\obj\Debug\net8.0\Programming_of_C_Sharp.AssemblyInfo.cs
+D:\Tranning 90day\Programming_of_C_Sharp\obj\Debug\net8.0\Programming_of_C_Sharp.csproj.CoreCompileInputs.cache
+D:\Tranning 90day\Programming_of_C_Sharp\obj\Debug\net8.0\Programming_of_C_Sharp.sourcelink.json
+D:\Tranning 90day\Programming_of_C_Sharp\obj\Debug\net8.0\Programming_of_C_Sharp.dll
+D:\Tranning 90day\Programming_of_C_Sharp\obj\Debug\net8.0\refint\Programming_of_C_Sharp.dll
+D:\Tranning 90day\Programming_of_C_Sharp\obj\Debug\net8.0\Programming_of_C_Sharp.pdb
+D:\Tranning 90day\Programming_of_C_Sharp\obj\Debug\net8.0\Programming_of_C_Sharp.genruntimeconfig.cache
+D:\Tranning 90day\Programming_of_C_Sharp\obj\Debug\net8.0\ref\Programming_of_C_Sharp.dll
